@@ -33,4 +33,4 @@ For technical details and full experimental results, see [the paper](https://).
 ```
 
 ## Contact
-Please contact junrus@cs.cmu.edu if you have any question on the codes.
+Please contact junrus@cs.cmu.edu and hongyanz@cs.cmu.edu if you have any question on the codes.
