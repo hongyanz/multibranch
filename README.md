@@ -24,7 +24,7 @@ The command `python fully_connected.py --help` gives the help information about 
 ## References
 For technical details and full experimental results, see [the paper](https://).
 ```
-@article{arora2017asimple, 
+@article{Zhang2018deep, 
 	author = {Hongyang Zhang and Junru Shao and Ruslan Salakhutdinov}, 
 	title = {Deep Neural Networks with Multi-Branch Architectures Are Less Non-Convex}, 
 	booktitle = {arXiv preprint},
