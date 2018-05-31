@@ -15,7 +15,7 @@ $ conda install pytorch=0.3.1
 
 ## Get started
 To get started, cd into the directory. Then runs the scripts: 
-* fully_connected.py is an demo on plotting the landscape of multi-branch neural network where each sub-network is a full-connected network with ReLu activation functions,
+* fully_connected.py is an demo on plotting the landscape of multi-branch neural network where each sub-network is a full-connected network with ReLU activation functions,
 * VGG.py is for running the multi-branch neural network based on VGG-9.
 
 ## Using the code
