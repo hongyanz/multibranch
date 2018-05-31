@@ -2,7 +2,7 @@
 
 This is the code for the paper "Deep Neural Networks with Multi-Branch Architectures Are Less Non-Convex".
 
-The code is written in python and requires numpy, torch, and the tqdm library.
+The code is written in python and requires numpy, torch, torchvision and the tqdm library.
 
 ## Install
 This code depends on python 3.6, pytorch 0.3.1 and numpy. We suggest to install the dependencies using Anaconda or Miniconda. Here is an example command:
@@ -15,8 +15,8 @@ $ conda install pytorch=0.3.1
 
 ## Get started
 To get started, cd into the directory. Then runs the scripts: 
-* fully_connected.py is an demo on plotting the landscape of multi-branch neural network where each sub-network is a full-connected network with ReLU activation functions,
-* VGG.py is for running the multi-branch neural network based on VGG-9.
+* fully_connected.py is an demo on plotting the landscape of multi-branch neural network where each sub-network is a full-connected network with ReLU activation functions and the dataset is synthetic,
+* VGG.py is for running the multi-branch neural network based on VGG-9 on CIFAR-10 dataset.
 
 ## Using the code
 The command `python fully_connected.py --help` gives the help information about how to run the code that produces landscape, and `python VGG.py --help` explains how to run the multi-branch neural network based on VGG-9.
