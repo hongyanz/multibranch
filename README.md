@@ -15,14 +15,14 @@ $ conda install pytorch=0.3.1
 
 ## Get started
 To get started, cd into the directory. Then runs the scripts: 
-* A.py is an demo on plotting the landscape of multi-branch neural network where each sub-network is a full-connected network with ReLu activation functions,
-* B.py is for running the multi-branch neural network based on VGG-9.
+* fully_connected.py is an demo on plotting the landscape of multi-branch neural network where each sub-network is a full-connected network with ReLu activation functions,
+* VGG.py is for running the multi-branch neural network based on VGG-9.
 
 ## Using the code
-The command `python A.py --help` gives the help information about how to run the code that produces landscape, and `python B.py --help` explains how to run the multi-branch neural network based on VGG-9.
+The command `python fully_connected.py --help` gives the help information about how to run the code that produces landscape, and `python VGG.py --help` explains how to run the multi-branch neural network based on VGG-9.
 
 ## References
-For technical details and full experimental results, see [the paper](https://openreview.net/forum?id=SyK00v5xx).
+For technical details and full experimental results, see [the paper](https://).
 ```
 @article{arora2017asimple, 
 	author = {Hongyang Zhang and Junru Shao and Ruslan Salakhutdinov}, 
