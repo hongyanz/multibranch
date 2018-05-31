@@ -1,8 +1,8 @@
 # Deep-Neural-Networks-with-Multi-Branch-Architectures-Are-Less-Non-Convex
-code for the paper "Deep Neural Networks with Multi-Branch Architectures Are Less Non-Convex"
 
-# Parallel Path
 This is the code for the paper "Deep Neural Networks with Multi-Branch Architectures Are Less Non-Convex".
+
+The code is written in python and requires numpy, pytorch, pickle, sklearn, theano and the lasagne library.
 
 # Install
 
