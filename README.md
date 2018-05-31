@@ -2,12 +2,29 @@
 
 This is the code for the paper "Deep Neural Networks with Multi-Branch Architectures Are Less Non-Convex".
 
-The code is written in python and requires numpy, pytorch, pickle, sklearn, theano and the lasagne library.
+The code is written in python and requires numpy, torch, and the tqdm library.
 
-# Install
+## Install
+This code depends on python3.6, pytorch 0.3.1 and numpy. We suggest to install the dependencies using Anaconda or Miniconda. Here is an example:
+```
+$ wget https://repo.anaconda.com/archive/Anaconda3-5.1.0-Linux-x86_64.sh
+$ bash Anaconda3-5.1.0-Linux-x86_64.sh
+$ source ~/.bashrc
+$ conda install pytorch=0.3.1
+```
 
-This code depends on python3.6, pytorch 0.3.1 and numpy. We suggest to install the dependencies using Anaconda or Miniconda.
+## Get started
+To get started, cd into the directory.
 
-# Using the code
-
+## Using the code
 The command `python A.py --help` gives the help information about how to run the code that produces landscape, and `python B.py --help` explains how to run the multi-branch neural network based on VGG-9.
+
+## References
+For technical details and full experimental results, see [the paper](https://openreview.net/forum?id=SyK00v5xx).
+```
+@article{arora2017asimple, 
+	author = {Hongyang Zhang and Junru Shao and Ruslan Salakhutdinov}, 
+	title = {Deep Neural Networks with Multi-Branch Architectures Are Less Non-Convex}, 
+	booktitle = {arXiv preprint},
+	year = {2018}
+}
