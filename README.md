@@ -22,12 +22,12 @@ To get started, cd into the directory. Then runs the scripts:
 The command `python fully_connected.py --help` gives the help information about how to run the code that produces landscape, and `python VGG.py --help` explains how to run the multi-branch neural network based on VGG-9.
 
 ## Reference
-For technical details and full experimental results, see [the paper](https://).
+For technical details and full experimental results, see [the paper](https://arxiv.org/abs/1806.01845).
 ```
 @article{Zhang2018deep, 
 	author = {Hongyang Zhang and Junru Shao and Ruslan Salakhutdinov}, 
 	title = {Deep Neural Networks with Multi-Branch Architectures Are Less Non-Convex}, 
-	booktitle = {arXiv preprint},
+	booktitle = {arXiv preprint arXiv:1806.01845},
 	year = {2018}
 }
 ```
