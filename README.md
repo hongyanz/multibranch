@@ -21,6 +21,11 @@ To get started, cd into the directory. Then runs the scripts:
 ## Using the code
 The command `python fully_connected.py --help` gives the help information about how to run the code that produces landscape, and `python VGG.py --help` explains how to run the multi-branch neural network based on VGG-9.
 
+## Running Example
+<p align="center">
+    <img src="example.pdf" width="360"\>
+</p>
+
 ## Reference
 For technical details and full experimental results, see [the paper](https://arxiv.org/abs/1806.01845).
 ```
