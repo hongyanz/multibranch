@@ -23,7 +23,7 @@ The command `python fully_connected.py --help` gives the help information about 
 
 ## Running Example
 <p align="center">
-    <img src="example.png" width="600"\>
+    <img src="example.png" width="800"\>
 </p>
 
 ## Reference
