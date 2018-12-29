@@ -32,7 +32,7 @@ For technical details and full experimental results, see [the paper](https://arx
 @article{Zhang2018deep, 
 	author = {Hongyang Zhang and Junru Shao and Ruslan Salakhutdinov}, 
 	title = {Deep Neural Networks with Multi-Branch Architectures Are Less Non-Convex}, 
-	booktitle = {arXiv preprint arXiv:1806.01845},
+	journal = {arXiv preprint arXiv:1806.01845},
 	year = {2018}
 }
 ```
