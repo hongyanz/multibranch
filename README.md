@@ -1,6 +1,6 @@
 # Deep-Neural-Networks-with-Multi-Branch-Architectures-Are-Less-Non-Convex
 
-This is the code for the paper "Deep Neural Networks with Multi-Branch Architectures Are Less Non-Convex" which is to appear in AISTATS 2019.
+This is the code for the paper "Deep Neural Networks with Multi-Branch Architectures Are Less Non-Convex" to appear in AISTATS 2019.
 
 The code is written in python and requires numpy, torch, torchvision and the tqdm library.
 
