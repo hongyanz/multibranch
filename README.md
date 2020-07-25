@@ -1,6 +1,6 @@
 # Deep-Neural-Networks-with-Multi-Branch-Architectures-Are-Less-Non-Convex
 
-This is the code for the paper "Deep Neural Networks with Multi-Branch Architectures Are Less Non-Convex" to appear in AISTATS 2019.
+This is the code for the paper "Deep Neural Networks with Multi-Branch Architectures Are Less Non-Convex" in AISTATS 2019.
 
 The code is written in python and requires numpy, torch, torchvision and the tqdm library.
 
@@ -15,7 +15,7 @@ $ conda install pytorch=0.3.1
 
 ## Get started
 To get started, cd into the directory. Then run the scripts: 
-* fully_connected.py is a demo on plotting the landscape of multi-branch neural network where each sub-network is a full-connected network with ReLU activation functions and the dataset is synthetic,
+* fully_connected.py is a demo on plotting the landscape of multi-branch neural network where each sub-network is a full-connected network with ReLU activation functions and the dataset is synthetic.
 * VGG.py is for running the multi-branch neural network based on VGG-9 on CIFAR-10 dataset.
 
 ## Using the code
